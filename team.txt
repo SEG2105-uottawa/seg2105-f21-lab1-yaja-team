@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-=======
-Jackie Chen
-Yier Wang
-Amin Arshadi
->>>>>>> d0607b268e3412366ab91e845c02c07c19bc2dfc
+Jackie
+Yier
+Amin
+samih
+Arthur
+
